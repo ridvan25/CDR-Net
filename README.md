@@ -11,7 +11,7 @@ The full codebase will be publicly available upon the acceptance of our paper.
 Thank you for your interest in our work!  
 As the paper is currently under review, we are only sharing the minimal setup to get model performance using pre-trained models.
 
-You can still explore the performance of our method by using the models provided in the [release page]().
+You can still explore the performance of our method by using the models provided in the [release page](https://github.com/ridvan25/CDR-Net/releases/tag/release_1.0.0_cdrnet).
 
 - `vnet_best.pth` is the pre-trained weight for the **VNet sub-network** trained with **region-based intra- and inter-network distillation**. 
 

@@ -26,8 +26,7 @@ You can use these weights to:
 
 You can reproduce the following results by running the `test_LA_CDR-Net.py` script with the provided pre-trained weights:
 
-`bash
-python test_LA_CDR-Net.py` 
+`python test_LA_CDR-Net.py` 
 
 The script will output average performance metrics as shown below:
 
